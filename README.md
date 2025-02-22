@@ -10,19 +10,19 @@
 ## Balance
 This category is named after Marc Raibert's book, _Legged Robots that Balance_. The papers in this category makes the main line of bipedal locomotion: to balance on any terrain in the wild. In this line, the focus is to learn the locomotion capability, and there are three subtopics: 1) hybrid methods with model-based heuristics, 2) end-to-end learning, and 3) hardware and algorithmic engineering choices that matter. For studies on sim-to-real transfer using POMDP formulations, please refer to the `Adaptation` category. 
 
-+ Li et al. Using deep reinforcement learning to learn high-level policies on the atrias biped. ICRA 2019.
+- [ ] Li et al. Using deep reinforcement learning to learn high-level policies on the atrias biped. ICRA 2019.
 
-+ Xie et al. Learning locomotion skills for cassie: Iterative design and sim-to-real. CoRL 2020.
+- [ ] Xie et al. Learning locomotion skills for cassie: Iterative design and sim-to-real. CoRL 2020.
 
-+ Kevin et al. Learning spring mass locomotion: Guiding policies with a reduced-order model. RAL 2021.
+- [ ] Kevin et al. Learning spring mass locomotion: Guiding policies with a reduced-order model. RAL 2021.
 
-+ Rodriguez et al. DeepWalk: Omnidirectional bipedal gait by deep reinforcement learning. ICRA 2021.
+- [ ] Rodriguez et al. DeepWalk: Omnidirectional bipedal gait by deep reinforcement learning. ICRA 2021.
 
-+ Li et al. Reinforcement learning for robust parameterized locomotion control of bipedal robots. ICRA 2021.
+- [ ] Li et al. Reinforcement learning for robust parameterized locomotion control of bipedal robots. ICRA 2021.
 
-+ Duan et al. Learning task space actions for bipedal locomotion. ICRA 2021.
+- [ ] Duan et al. Learning task space actions for bipedal locomotion. ICRA 2021.
 
-+ Siekmann et al. Sim-to-real learning of all common bipedal gaits via periodic reward composition. ICRA 2021.
+- [ ] Siekmann et al. Sim-to-real learning of all common bipedal gaits via periodic reward composition. ICRA 2021.
 
 + Castillo et al. Robust feedback motion policy design using reinforcement learning on a 3D digit bipedal robot. IROS 2021.
 
