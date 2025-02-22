@@ -112,28 +112,28 @@ The community is not satisfied with only balancing. We want loco-manipulation, w
 ## Human2Humanoid  
 Humanoids share the human morph, so a natural idea is to using human data for humanoid control. This can involve two types of works: 1) make humanoids move like humans, and 2) help humans teleoperate humanoids and collect data.
 
-+ Bohez et al. Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors. arXiv 2022.
+- [ ] Bohez et al. Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors. arXiv 2022.
 
-+ Tang et al. HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation. ICRA 2024.
+- [ ] Tang et al. HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation. ICRA 2024.
 
-+ Cheng et al. Expressive Whole-Body Control for Humanoid Robots. RSS 2024.
+- [x] Cheng et al. Expressive Whole-Body Control for Humanoid Robots. RSS 2024.
 
-+ Zhang et al. Whole-body Humanoid Robot Locomotion with Human Reference. IROS 2024.
+- [ ] Zhang et al. Whole-body Humanoid Robot Locomotion with Human Reference. IROS 2024.
 
-+ He et al. Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation. IROS 2024.
+- [x] He et al. Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation. IROS 2024.
 
-+ He et al. OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning. CoRL 2024.
+- [x] He et al. OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning. CoRL 2024.
 
-+ Fu et al. HumanPlus: Humanoid Shadowing and Imitation from Humans. CoRL 2024.
+- [x] Fu et al. HumanPlus: Humanoid Shadowing and Imitation from Humans. CoRL 2024.
 
-+ Dugar et al. Learning Multi-Modal Whole-Body Control for Real-World Humanoid Robots. arXiv 2024.
+- [ ] Dugar et al. Learning Multi-Modal Whole-Body Control for Real-World Humanoid Robots. arXiv 2024.
 
-+ He et al. Hover: Versatile neural whole-body controller for humanoid robots. arXiv 2024. 
+- [x] He et al. Hover: Versatile neural whole-body controller for humanoid robots. arXiv 2024. 
 
-+ Lu et al. Mobile-television: Predictive motion priors for humanoid whole-body control. arXiv 2024.
+- [ ] Lu et al. Mobile-television: Predictive motion priors for humanoid whole-body control. arXiv 2024.
 
-+ Ji et al. ExBody2: Advanced Expressive Humanoid Whole-Body Control. arXiv 2024.
+- [x] Ji et al. ExBody2: Advanced Expressive Humanoid Whole-Body Control. arXiv 2024.
 
-+ He et al. ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills. arXiv 2025.
+- [x] He et al. ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills. arXiv 2025.
 
-+ Zhuang et al. Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions. arXiv 2025.
+- [x] Zhuang et al. Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions. arXiv 2025.
